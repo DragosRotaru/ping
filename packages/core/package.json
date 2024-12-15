@@ -103,7 +103,7 @@
     "tslint": "5.20.1",
     "tslint-config-prettier": "1.18.0",
     "tslint-jest": "1.0.5",
-    "twilio": "3.46.0",
+    "twilio": "3.82.0",
     "typescript": "3.9.5"
   },
   "gitHead": "588368c0e8bc285f4dffc6e8542bdd319fa5f452"
